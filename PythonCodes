@@ -1,1 +1,23 @@
-
+1. L =n [1,2,2,3,4,1], Remove non repetive number from the list.
+    
+2. L = [1,2,3,4,5] print even numbers from list using list comprehension.
+3. d = {1:'a', 2:'b', 3:'c', 4:'d'} get keys and vallues from dictionary.
+4. L = [[1,2,3],4,5,[6,7,8]], output = [(1,2,3),4,5,(6,7,8)]
+5. S = "Welcome to bangalore", O/P = [W]
+6. S = "Wel$come to$ Ba#ngl&ore",  remove spl characters.
+7. L = [1,2,3,4,5,6], print squares for even number and cube for odd numbers.
+8.  Factorial of a number.
+9. Reverse of a number not using third ariable.
+10. Add two numbers using decorator function.
+11. L = [(a,2),(b,3),(c,4)], output = {'a'=2,'b'=3, 'c' = 4} using list comprehension
+12. Viceversa of above.
+13. S1 = "AA BB CC", S2 = "BB CC DD", output = "BB CC"
+14. L1 = [1,2,3], L2 = [4,5,6], ADD L2 at position after 2nd index. output = [1,2,[4,5,6]]
+15 How to defice list, tuple, Dictionary, Set.
+16. d1 = {1:'a', 'b':2, 3:'d'}, d2 = {4:'f', 6:'i'} merge two dictionary.
+17. Merge 3 dictionary.
+18. L = [1,2,3,4,5] print odd number using list comprehension
+19. Write a program to define *args and *kwargs
+20. Wrtie program to define static variable, instance variable,  properties, constructor using inheritance.
+21. Write a programe for inheritance.
+22. S = "Welcome To bangalore" Remove spaces
